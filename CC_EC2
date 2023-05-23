@@ -1,0 +1,19 @@
+Amazon EC2
+
+
+Amazon aws console
+Sign in root user 
+gauriwaikar09@gmail.com.   
+G@ur!9902
+Services
+Compute ->EC2
+Location N.Virginia
+Instances -> launch instance
+Ubuntu (free tier eligible)
+Key pair ->create new key pair-> name create
+.pem file is imp(automatically downloaded after creating a keypair)
+Launch instance
+EC2 dashboard-> instances should be 1(running)
+Select checkbox-> instance state->terminate
+Keypair-> actions->delete
+Delete security groups
